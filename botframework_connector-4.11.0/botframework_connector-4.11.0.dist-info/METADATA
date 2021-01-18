@@ -15,9 +15,8 @@ Classifier: Development Status :: 5 - Production/Stable
 Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
 Description-Content-Type: text/x-rst
 Requires-Dist: msrest (==0.6.10)
-Requires-Dist: requests (==2.23.0)
-Requires-Dist: cryptography (==2.8.0)
-Requires-Dist: PyJWT (==1.5.3)
+Requires-Dist: requests (<2.26,>=2.23.0)
+Requires-Dist: PyJWT (<2.0.0,>=1.5.3)
 Requires-Dist: botbuilder-schema (==4.11.0)
 Requires-Dist: adal (==1.2.1)
 Requires-Dist: msal (==1.2.0)

@@ -16,7 +16,7 @@ Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
 Description-Content-Type: text/x-rst
 Requires-Dist: botbuilder-schema (==4.11.0)
 Requires-Dist: botframework-connector (==4.11.0)
-Requires-Dist: jsonpickle (==1.2)
+Requires-Dist: jsonpickle (<1.5,>=1.2)
 
 
 ==============================
